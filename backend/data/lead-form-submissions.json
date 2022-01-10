@@ -1,0 +1,19 @@
+{
+  "leadFormSubmissions": [
+    {
+      "email": "mallikarjuna.m@think.design",
+      "status": "seen",
+      "location": "Home Page Bottom"
+    },
+    {
+      "email": "mallikarjuna.m@think.design",
+      "status": "contacted",
+      "location": "Home Page Bottom"
+    },
+    {
+      "email": "mallikarjuna.m@think.design",
+      "status": "ignored",
+      "location": "Home Page Bottom"
+    }
+  ]
+}

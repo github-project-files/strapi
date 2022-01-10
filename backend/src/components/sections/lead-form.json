@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_sections_lead_forms",
+  "info": {
+    "name": "Lead form",
+    "displayName": "Lead form",
+    "icon": "at",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },"email": {
+      "type": "string"
+    },"subject": {
+      "type": "string"
+    },"message": {
+      "type": "string"
+    },
+    "submitButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    },
+    "location": {
+      "type": "string"
+    }
+  }
+}
